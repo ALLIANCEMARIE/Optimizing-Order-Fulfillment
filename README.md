@@ -71,7 +71,7 @@ Based on the findings, the following actions are recommended:
 
 ## Project Deliverables
 
-- [Delivery_orders_dataset.xls](https://github.com/ALLIANCEMARIE/Optimizing-Order-Fulfillment/blob/8bfe0af70661a06c29b0e3352bc3d92801844a71/Delivery_orders_dataset.xlsx)t
+- [Delivery_orders_dataset.xls](https://github.com/ALLIANCEMARIE/Optimizing-Order-Fulfillment/blob/8bfe0af70661a06c29b0e3352bc3d92801844a71/Delivery_orders_dataset.xlsx)
 - [order_fulfillment_analysis.xlsx](https://github.com/ALLIANCEMARIE/Optimizing-Order-Fulfillment/blob/e690271fcd721f7db67a4a533e6010f82081c3dd/Order_fulfillment_analysis.xlsx)
 
 ## Limitations & Next Steps
