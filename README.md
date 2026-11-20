@@ -46,6 +46,7 @@ The objective was to use delivery data to identify performance gaps and support 
 | Backlogged orders | 500 |
 | Backlog rate | 33.3% |
 | Csat Score | 32.07% |
+| Avg Delivery Time | 73.56 mins |
 
 **Backlog definition:** An order was classified as backlogged when its status was *In Progress* and its recorded delay exceeded 10 minutes. Therefore, the 767 orders represent all orders still in progress, while 500(33.3%) of those orders met the backlog classification rule. The remaining 267 did not exceed the defined delay threshold.
 
