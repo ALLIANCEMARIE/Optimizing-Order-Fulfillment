@@ -9,7 +9,7 @@ This project examines 1,500 delivery orders for Streamline Logistics Solutions t
 
 ## Dashboard Preview
 
-![image alt](https://github.com/ALLIANCEMARIE/Optimizing-Order-Fulfillment/blob/main/Order_fulfilement_Dashboard.JPG?raw=true)
+![image alt](https://github.com/ALLIANCEMARIE/Optimizing-Order-Fulfillment/blob/c45356c0212da6b126c215e3947a7827e2da3c35/Order_fulfilment_Dashboard.JPG)
 
 *Interactive Excel dashboard showing key order fulfillment metrics and operational performance.*
 
