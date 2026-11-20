@@ -70,8 +70,8 @@ Based on the findings, the following actions are recommended:
 
 ## Project Deliverables
 
-- [Original Delivery Dataset](delivery_orders_dataset.xlsx)
-- [Excel Analysis Workbook](order_fulfillment_analysis.xlsx)
+- [[Delivery_orders_dataset.xlsx](https://github.com/ALLIANCEMARIE/Optimizing-Order-Fulfillment/blob/8bfe0af70661a06c29b0e3352bc3d92801844a71/Delivery_orders_dataset.xlsx)t]
+- [order_fulfillment_analysis.xlsx]()
 
 ## Limitations & Next Steps
 
